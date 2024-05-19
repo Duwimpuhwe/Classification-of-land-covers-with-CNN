@@ -1,0 +1,9 @@
+This a classicatrion task whereby CNN (Convolutional Neural Netowrk) is applied on land cover images.
+
+The data can be access here: https://figshare.com/ndownloader/files/30871912
+
+The nework build is shallow and the mail purpose this repository is to showcase how the classification 
+can be done with CNN. It coves the whole process from building a custom dataloader, building CNN architecture,
+Model training and Evaluation.
+
+There is also exercise provided in the notebook to help further understanding.
